@@ -1,0 +1,40 @@
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.exe
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.deps.json
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.runtimeconfig.json
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.dll
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\ref\GorselProgramlamaOdev.dll
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.pdb
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.Form1.resources
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.dll
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\ref\GorselProgramlamaOdev.dll
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.pdb
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Yeni klasör\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.CopyComplete
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.exe
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.deps.json
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.runtimeconfig.json
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.runtimeconfig.dev.json
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.dll
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\GorselProgramlamaOdev.pdb
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.AssemblyReference.cache
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.Form1.resources
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.GenerateResource.cache
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.AssemblyInfoInputs.cache
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.AssemblyInfo.cs
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.CoreCompileInputs.cache
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.csproj.CopyComplete
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.dll
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\refint\GorselProgramlamaOdev.dll
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.pdb
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\GorselProgramlamaOdev.genruntimeconfig.cache
+C:\Users\oem\Desktop\UNI\GorselProgramlamaOdev\GorselProgramlamaOdev\obj\Debug\net5.0-windows\ref\GorselProgramlamaOdev.dll
